@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Документация"
-permalink: /projects/
+permalink: /pages/
 ---
 
 # Документация
