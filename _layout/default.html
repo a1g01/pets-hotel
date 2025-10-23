@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <style>
+        body { font-family: sans-serif; margin: 2em; line-height: 1.6; }
+        nav a { margin-right: 1em; }
+    </style>
+</head>
+<body>
+{% include header.html %}
+<hr>
+{{ content }}
+</body>
+</html>
