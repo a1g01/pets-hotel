@@ -6,10 +6,10 @@ permalink: /pages/
 
 # Документация
 
-[] even storming
-[] C4
-[] User Story
-[] Use Cases
-[] Sequence diagram
-[] ERD
-[] API
+[x] [even storming](even-storming.md)  
+[] [C4](c4.md)  
+[] User Story  
+[] Use Cases  
+[] Sequence diagram  
+[] [ERD](erd.md)  
+[] API  
