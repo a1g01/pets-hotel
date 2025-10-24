@@ -5,4 +5,11 @@ permalink: /pages/
 ---
 
 # Документация
-gegegeg
+
+[] even storming
+[] C4
+[] User Story
+[] Use Cases
+[] Sequence diagram
+[] ERD
+[] API
