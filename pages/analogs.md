@@ -4,7 +4,7 @@ title: "Аналоги"
 ---
 
 Из аналогов мирового рынка есть следующик агрегаторы:
-* https://doggotels.com/en/hotels - испанская версия агрегатора отелей для собак
+* https://doggotels.com/en/hotels
 * https://www.petbacker.com/
 * https://www.rover.com/
 * https://hotels.pet-yes.com/
