@@ -6,6 +6,7 @@ permalink: /pages/
 
 # Документация
 * [Анализ аналогов рынка](analogs.md)
+* [Требования](BRD/requirements.md)
 * [even storming](even-storming.md)  
 * [C4](c4.md)  
 * User Story  
